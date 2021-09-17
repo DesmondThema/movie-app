@@ -16,7 +16,7 @@ MovieApp is a basic Movie platform powered by [Laravel](https://laravel.com/) at
 4. Install NPM Dependencies  
 `npm install`
 5. Copy the .env.example file and rename it into the .env file  
-`copy .env.example .env` 
+`cp .env.example .env` 
 6. Generate application key  
 `php artisan key:generate  
 `
